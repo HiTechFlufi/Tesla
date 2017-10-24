@@ -49,9 +49,11 @@ From this point on, you can start the bot by running the following command:
   * Zach Hartin ([@HiTechFlufi][5]) - Primary Developer
   * [Pokemon Showdown][1] - In-game data files, Tools module, and various helper functions
   * Quinton Lee ([@sirDonovan][6]) - Base/Starting Code from Cassius
+  * sparkychild ([@sparkychild][8]) - Additional commands/functionalities from FoxieBot
 
 [5]: https://github.com/HiTechFlufi
 [6]: https://github.com/sirDonovan
+[8]: https://github.com/sparkychild
 
 ## License
 
