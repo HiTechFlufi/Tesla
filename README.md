@@ -53,6 +53,6 @@ From this point on, you can start the bot by running the following command:
 
 ## License
 
-  Tesla is distributed under the terms of the [MIT License][6].
+  Tesla is distributed under the terms of the [GNU General Public License][6].
 
   [6]: https://github.com/HiTechFlufi/Tesla/blob/master/LICENSE
