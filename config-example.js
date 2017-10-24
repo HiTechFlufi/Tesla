@@ -1,17 +1,17 @@
 'use strict';
 
-// The username and password that Cassius will use to login
+// The username and password that will be used to login
 exports.username = 'Example Username';
 // leave this blank if the username is unregistered
 exports.password = '';
 
-// The server address to which Cassius will connect
+// The server address to which the bot will connect
 exports.server = '';
 
-// The avatar that Cassius will use
+// The avatar that the bot will use
 exports.avatar = '';
 
-// Rooms that Cassius will attempt to join after logging in
+// Rooms that the bot will attempt to join after logging in
 // example: exports.rooms = ['room1', 'room2', 'room3'];
 /**@type {Array<string>} */
 exports.rooms = [];
@@ -44,7 +44,7 @@ exports.groups = {
 	'~': 6,
 };
 
-// Userids of those who have debug access to Cassius
+// Userids of those who have debug access to the bot
 // example: exports.developers = ['devuser1', 'devuser2', 'devuser3'];
 /**@type {Array<string>} */
 exports.developers = [];
