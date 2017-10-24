@@ -1,0 +1,35 @@
+{
+	"name": "tesla",
+	"version": "1.0",
+	"description": "Pokemon Showdown Bot",
+	"author": {
+		"name": "Zach Hartin",
+		"email": "zach.hartin@gmail.com"
+	},
+	"scripts": {
+		"start": "node app.js",
+		"test": "eslint --cache . && mocha --exit"
+	},
+	"main": "app.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/HiTechFlufi/Tesla.git"
+	},
+	"dependencies": {
+		"websocket": "^1.0.25"
+	},
+	"devDependencies": {
+		"typescript": "^2.5.1",
+		"eslint": "4.8.0",
+		"mocha": "4.0.1",
+		"@types/mocha": "^2.2.41",
+		"@types/node": "^8.0.26",
+		"@types/websocket": "^0.0.33"
+	},
+	"engine-strict": true,
+	"engines": {
+		"node": ">=6.0.0"
+	},
+	"private": true,
+	"license": "gnu"
+}
