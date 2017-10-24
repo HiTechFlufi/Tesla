@@ -2,5 +2,5 @@
 
 exports.BattlePokeTeams = [
 	["Dewdrop", "Azure"],
-  ["Doges", "Cates"],
+  	["Doges", "Cates"],
 ];
