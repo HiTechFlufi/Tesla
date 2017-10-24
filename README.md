@@ -4,7 +4,7 @@ Pokemon Showdown Bot
   [1]: https://github.com/Zarel/Pokemon-Showdown
 
 ## Installation
-Tesla requires [Node.js][2] version 6.0.0 or later and a command line (e.g. `Command Prompt` on Windows or `Terminal` on Mac OS/Linux) to run. Once you have compatible software, complete installation by following these steps:
+Tesla requires [Node.js][2] version 7.0.0 or later and a command line (e.g. `Command Prompt` on Windows or `Terminal` on Mac OS/Linux) to run. Once you have compatible software, complete installation by following these steps:
 
 1. Cloning a copy of Tesla
 
